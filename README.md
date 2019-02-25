@@ -6,7 +6,7 @@ A lightweight JavaScript library for create a slider with the transformation fun
 
 :star: Star us on GitHub — it helps!
 
-## [Live Demo](https://alikinvv.github.io/preview-slider/build).
+## [Live Demo](https://alikinvv.github.io/preview-slider/demo).
 
 ## Options
  - `container` (object) - slider initialization container 
