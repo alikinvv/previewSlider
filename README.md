@@ -8,6 +8,8 @@ A lightweight JavaScript library for create a slider with the transformation fun
 
 ## [Live Demo](https://alikinvv.github.io/previewSlider/demo)
 
+![aligment buttons](https://cdn.dribbble.com/users/1773016/screenshots/6080316/1.gif)
+
 ## Options
  - `container` (object) - slider initialization container 
  - `arrowLeft` (object) - left arrow
