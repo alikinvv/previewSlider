@@ -1,12 +1,12 @@
 # previewSlider
 
-[![GitHub Issues](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alikinvv/preview-slider/issues)  [![HitCount](http://hits.dwyl.com/alikinvv/preview-slider.svg)](http://hits.dwyl.com/alikinvv/preview-slider)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.me/alikinvv)
+[![GitHub Issues](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alikinvv/previewSlider/issues)  [![HitCount](http://hits.dwyl.com/alikinvv/previewSlider.svg)](http://hits.dwyl.com/alikinvv/previewSlider)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.me/alikinvv)
 
 A lightweight JavaScript library for create a slider with the transformation function into the preview gallery.
 
 :star: Star us on GitHub — it helps!
 
-## [Live Demo](https://alikinvv.github.io/preview-slider/demo).
+## [Live Demo](https://alikinvv.github.io/previewSlider/demo).
 
 ## Options
  - `container` (object) - slider initialization container 
@@ -70,4 +70,4 @@ new previewSlider({
 ```
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/preview-slider-repo)](https://github.com/alikinvv/preview-slider)
+[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/previewSlider-repo)](https://github.com/alikinvv/previewSlider)
