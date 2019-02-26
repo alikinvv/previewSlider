@@ -71,5 +71,9 @@ new previewSlider({
 });
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/alikinvv/previewSlider/blob/gh-pages/LICENSE) file for details
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/previewSlider-repo)](https://github.com/alikinvv/previewSlider)
