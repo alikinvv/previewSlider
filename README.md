@@ -2,7 +2,9 @@
 
 [![GitHub Issues](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alikinvv/previewSlider/issues)  [![HitCount](http://hits.dwyl.com/alikinvv/previewSlider.svg)](http://hits.dwyl.com/alikinvv/previewSlider)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.me/alikinvv)
 
-A lightweight JavaScript library for create a slider with the transformation function into the preview gallery.
+previewSlider is a responsive fullscreen image slider where the users are able to preview next/previous image when hovering over the navigation arrows.
+
+Clicking on the navigation arrows will transition to the next/prev image after a certain delay, with a countdown progress bar that tells the users how long it will take to start the transition.
 
 :star: Star us on GitHub — it helps!
 
